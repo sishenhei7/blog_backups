@@ -4,6 +4,12 @@
 
 [underscore.js源码研究(1)](http://www.cnblogs.com/yangzhou33/p/8859331.html)
 [underscore.js源码研究(2)](http://www.cnblogs.com/yangzhou33/p/8886992.html)
+[underscore.js源码研究(3)](http://www.cnblogs.com/yangzhou33/p/8910945.html)
+[underscore.js源码研究(4)](http://www.cnblogs.com/yangzhou33/p/8922700.html)
+[underscore.js源码研究(5)](http://www.cnblogs.com/yangzhou33/p/8972394.html)
+[underscore.js源码研究(6)](http://www.cnblogs.com/yangzhou33/p/8975205.html)
+[underscore.js源码研究(7)](http://www.cnblogs.com/yangzhou33/p/8977090.html)
+[underscore.js源码研究(8)](http://www.cnblogs.com/yangzhou33/p/8983245.html)
 
 参考资料：underscore.js官方注释[](http://underscorejs.org/docs/underscore.html)，[undersercore 源码分析](https://yoyoyohamapi.gitbooks.io/undersercore-analysis/content/supply/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%94%AF%E6%8C%81.html)，[undersercore 源码分析 segmentfault](https://segmentfault.com/u/hanzichi/articles?page=2)
 
