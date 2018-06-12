@@ -2,6 +2,8 @@
 
 之前写过[react在router中传递数据的2种方法](http://www.cnblogs.com/yangzhou33/p/8495459.html)，但是有些细节没有理清楚，现在补上，记录下来，供以后开发时参考，相信对其他人也有用。
 
+参考资料：[stackoverflow react router redux url](https://stackoverflow.com/questions/45537722/react-router-redux-url)
+
 ### match
 
 如果使用下面这种方式切换路由，那么参数可以通过props.match.params.filter拿到。
